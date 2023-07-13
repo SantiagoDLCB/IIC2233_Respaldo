@@ -4,3 +4,6 @@
 [submodule "Syllabus"]
 	path = Syllabus
 	url = https://github.com/IIC2233/Syllabus
+[submodule "contenidos"]
+	path = contenidos
+	url = https://github.com/IIC2233/contenidos
