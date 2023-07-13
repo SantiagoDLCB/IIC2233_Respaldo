@@ -1,3 +1,6 @@
 [submodule "SantiagoDLCB-iic2233-2023-1"]
 	path = SantiagoDLCB-iic2233-2023-1
 	url = https://github.com/IIC2233/SantiagoDLCB-iic2233-2023-1
+[submodule "Syllabus"]
+	path = Syllabus
+	url = https://github.com/IIC2233/Syllabus
