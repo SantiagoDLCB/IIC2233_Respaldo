@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class 
+.vscode/
+Enunciado.pdf
+cliente/__pycache__/
+cliente/frontend/__pycache__/
+cliente/frontend/Sprites/
+cliente/Scripts/__pycache__/
+servidor/__pycache__/
+servidor/Scripts/__pycache__/

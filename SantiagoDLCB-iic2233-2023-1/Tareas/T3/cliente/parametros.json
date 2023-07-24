@@ -1,0 +1,183 @@
+{
+    "HOST": "localhost",
+    "N_PONDERADOR": 10,
+    "CHUNK_SIZE": 128,
+    "SOCKET_RECV": 4096,
+    "DEFAULT_ID": "",
+    "ACTUALIZAR_COLA": "Actualizar Cola",
+    "ACTUALIZAR_JUGADORES": "Actualizar Jugadores",
+    "COMENZAR_JUEGO": "Comenzar Juego",
+    "ACTUALIZAR_JUEGO": "Actualizar Juego",
+    "ANUNCIAR_VALOR": "Anunciar Valor",
+    "PASAR_TURNO": "Pasar Turno",
+    "CAMBIAR_DADOS": "Cambiar Dados",
+    "USAR_PODER": "Usar Poder",
+    "DUDAR": "Dudar",
+    "ERROR_JUEGO": "Error juego",
+    "PERDER": "Perder",
+    "GANAR": "Ganar",
+    "SEE": "Cheatcode see",
+    "TIEMPO": "Actualizar Tiempo",
+    "PATH_FONDO_INICIO": [
+        "frontend",
+        "Sprites",
+        "background",
+        "background_inicio.png"
+    ],
+    "PATH_FONDO_JUEGO": [
+        "frontend",
+        "Sprites",
+        "background",
+        "background_juego.png"
+    ],
+    "PATH_DICE_HIDE": [
+        "frontend",
+        "Sprites",
+        "dices",
+        "dice_logo.png"
+    ],
+    "PATH_DICE_1": [
+        "frontend",
+        "Sprites",
+        "dices",
+        "dice_1.png"
+    ],
+    "PATH_DICE_2": [
+        "frontend",
+        "Sprites",
+        "dices",
+        "dice_2.png"
+    ],
+    "PATH_DICE_3": [
+        "frontend",
+        "Sprites",
+        "dices",
+        "dice_3.png"
+    ],
+    "PATH_DICE_4": [
+        "frontend",
+        "Sprites",
+        "dices",
+        "dice_4.png"
+    ],
+    "PATH_DICE_5": [
+        "frontend",
+        "Sprites",
+        "dices",
+        "dice_5.png"
+    ],
+    "PATH_DICE_6": [
+        "frontend",
+        "Sprites",
+        "dices",
+        "dice_6.png"
+    ],
+    "PATH_ICONO": [
+        "frontend",
+        "Sprites",
+        "extra",
+        "user_profile.png"
+    ],
+    "GEOMETRIA_INICIO": [
+        100,
+        100,
+        720,
+        720
+    ],
+    "GEOMETRIA_JUEGO": [
+        100,
+        100,
+        1280,
+        720
+    ],
+    "MARGENES_JUEGO": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "POS_JUG_1": [
+        2,
+        1
+    ],
+    "POS_JUG_2": [
+        1,
+        2
+    ],
+    "POS_JUG_3": [
+        0,
+        1
+    ],
+    "POS_JUG_4": [
+        1,
+        0
+    ],
+    "POS_TIEMPO": [
+        1,
+        1
+    ],
+    "POS_ACCIONES": [
+        2,
+        2
+    ],
+    "DIMENSION_GRILLA": 3,
+    "PIXELES_GRILLA": 500,
+    "ANCHO_ACCIONES": 150,
+    "TEXTO_DESCONECTADO": "El servidor se desconecto, intente mas tarde",
+    "TEXTO_SALIR": "Salir",
+    "TEXTO_PARTIDA_ACTIVA": "Partida en juego\nIntente mas tarde",
+    "TEXTO_COLA_LLENA": "Sala llena!\nEspere un cupo",
+    "TEXTO_TITULO_ESPERA": "SALA DE ESPERA",
+    "STYLE_TITULO_ESPERA": [
+        "QLabel{font: bold;font-size: 36px; ",
+        "qproperty-alignment: 'AlignCenter'; color: white}"
+    ],
+    "TEXTO_COMENZAR": "Comenzar",
+    "ESPACIADO_TITULO": 50,
+    "TEXTO_TURNO_ACTUAL": "Turno: ",
+    "TEXTO_NUM_ANUNCIADO": "Numero mayor anunciado: ",
+    "TEXTO_TURNO_ANTERIOR": "Turno anterior: ",
+    "TEXTO_NUM_TURNO": "Numero Turno: ",
+    "ESPACIADO_PANEL_SUPERIOR": 5,
+    "STYLE_STATUS": [
+        "QLabel{font: bold;font-size: 20px; ",
+        "qproperty-alignment: 'AlignCenter'; color: white}"
+    ],
+    "TEXTO_PERDISTE": "PERDISTE",
+    "TEXTO_GANASTE": "GANASTE",
+    "TEXTO_CERRAR": "Cierre la ventana para salir del programa",
+    "STYLE_RESULTADO": [
+        "QLabel{font: bold;font-size: 96px; ",
+        "qproperty-alignment: 'AlignCenter'; color: white}"
+    ],
+    "TEXTO_TIEMPO": "Tiempo: ",
+    "STYLE_TIEMPO": [
+        "QLabel{font: bold;font-size: 36px; ",
+        "qproperty-alignment: 'AlignCenter'; color: white}"
+    ],
+    "LETRA_S": "S",
+    "LETRA_E": "E",
+    "HISTORIAL_INICIO": [
+        null,
+        null,
+        null
+    ],
+    "SECUENCIA_SEE": [
+        "S",
+        "E",
+        "E"
+    ],
+    "DIMENSION_ICONO": 100,
+    "STYLE_ID": [
+        "QLabel{font: bold;font-size: 24px; ",
+        "qproperty-alignment: 'AlignCenter'; color: white}"
+    ],
+    "TEXTO_VIDAS": "Vidas: ",
+    "STYLE_VIDAS": [
+        "QLabel{font: bold;font-size: 18px; ",
+        "qproperty-alignment: 'AlignCenter'; color: white}"
+    ],
+    "DIMENSION_DADO": 50,
+    "ERROR_INGRESAR_PUERTO": "No se ingreso un puerto",
+    "ERROR_CONECTAR": "No se pudo conectar al server en el puerto indicado"
+}

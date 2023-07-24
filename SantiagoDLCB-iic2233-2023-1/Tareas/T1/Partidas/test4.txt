@@ -1,0 +1,5 @@
+normal,Arena roja,3,2,3,1
+hibrido,Beyoncé,41,90,10,10,10,,tareo,Mtaguero,27,68,5,1,6,,tareo,jtvaldivia,53,29,10,1,7,,docencio,MatiasMasjuan,32,42,10,5,10,,docencio,Lily614,60,12,10,1,10
+Consumible,Chamito,Otorga +20 energía / +10 fuerza / +1 felicidad.,20,10,0,1
+60.16
+2

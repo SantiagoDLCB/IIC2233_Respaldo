@@ -1,0 +1,15 @@
+
+__pycache__/
+*.py[cod]
+
+*$py.class
+ 
+.vscode/
+
+Enunciado.pdf
+excavadores.csv
+arenas.csv
+consumibles.csv
+tesoros.csv
+
+
